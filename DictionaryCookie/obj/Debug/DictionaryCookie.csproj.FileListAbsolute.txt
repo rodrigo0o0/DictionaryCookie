@@ -1,0 +1,8 @@
+C:\Users\sande\source\repos\DictionaryCookie\DictionaryCookie\bin\Debug\DictionaryCookie.exe.config
+C:\Users\sande\source\repos\DictionaryCookie\DictionaryCookie\bin\Debug\DictionaryCookie.exe
+C:\Users\sande\source\repos\DictionaryCookie\DictionaryCookie\bin\Debug\DictionaryCookie.pdb
+C:\Users\sande\source\repos\DictionaryCookie\DictionaryCookie\obj\Debug\DictionaryCookie.csproj.AssemblyReference.cache
+C:\Users\sande\source\repos\DictionaryCookie\DictionaryCookie\obj\Debug\DictionaryCookie.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\source\repos\DictionaryCookie\DictionaryCookie\obj\Debug\DictionaryCookie.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\DictionaryCookie\DictionaryCookie\obj\Debug\DictionaryCookie.exe
+C:\Users\sande\source\repos\DictionaryCookie\DictionaryCookie\obj\Debug\DictionaryCookie.pdb
